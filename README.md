@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Narin Pratap
-- 👀 I’m interested in Data Visualization and Machine Learning using R, Python, & Tableau
-- 🌱 I’m currently learning more about Data Science as a graduate student in Northwestern University
+- 👋 Hi, I’m Narin Dhatwalia. I currently work as a Data Science and Analytics Intern at TransUnion LLC Chicago
+- 👀 I’m interested in Predictive Modeling, Machine Learning, Data Viz using R, Python, & Tableau
+- 🌱 I’m currently learning more about Data Science as a graduate student in Northwestern University's MSiA program
 - 💞️ I’m looking to collaborate on any interesting predictive models that involve Regression/Classification or Deep Learning
 - 📫 You can reach me at narindhatwalia2021@u.northwestern.edu
 
